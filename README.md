@@ -52,14 +52,6 @@ backend_index = hash(client_ip, client_port) % healthy_backend_count
 - Simple and fast
 - Common in L4 load balancers
 
-
-**Why Hashing?**
-
-- Predictable routing
-- Backend cache locality
-- Simple and fast
-- Common in L4 load balancers
-
 ---
 
 # Implementation Roadmap (Step-by-Step)
