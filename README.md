@@ -1,4 +1,4 @@
-# Bao
+# <img src="./etc/bao.png" alt="Bao icon" width="64" style="vertical-align: middle;"> Bao
 
 A Layer 4 (TCP) load balancer written in C, inspired by AWS Network Load Balancer (NLB).  
 This project implements **hash-based load balancing** to consistently route client connections to backend servers while maintaining low latency and high throughput.
