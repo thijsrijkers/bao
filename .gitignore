@@ -56,3 +56,4 @@ dkms.conf
 
 .include/
 bao
+include/bao.c
